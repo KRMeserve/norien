@@ -1,2 +1,5 @@
-# norien
-Norien - Styled React Component Library
+# Norien
+
+---
+
+Styled React Component Library
